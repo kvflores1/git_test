@@ -1,2 +1,3 @@
 # git_test
-The Odin Projects - Foundation Course: Git Basics
+The Odin Project - Foundation Course: Git Basics
+Hello Odin!
